@@ -1,5 +1,6 @@
 #include "../khash.h"
 
+
 #define int_hash_func(x) ((uint32_t)x)
 #define int_equal(a,b) ((a) == (b))
 
